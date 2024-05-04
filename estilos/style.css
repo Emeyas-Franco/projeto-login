@@ -57,8 +57,17 @@ section#login > div#formulario {
     display: block;
     padding: 10px;
 }
+
+div#formulario > h1 {
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+div#formulario > p {
+    font-size: 0.8em;
+}
+
 section#login > div#formulario span.material-symbols-outlined{
-    position: relative;
     height: 30px;
     width: 100px;
     background-color: #5f2c82;
