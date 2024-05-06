@@ -90,14 +90,14 @@ div.campo > i {
 }
 
 div.campo > input {
-    background-color: #5ccac6;
+    background-color: #9bcfcd;
     font-size: 1em;
     width: calc(100% - 45px);
     height: 100%;
     border: none;
     border-radius: 8px;
     padding: 4px;
-    transform: translateY(-10px);
+    transform: translateY(-13px);
 }
 
 div.campo > input:focus-within {
